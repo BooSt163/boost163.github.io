@@ -1,6 +1,6 @@
 [
   {
-    "date": 1549788960000,
+    "date": 1549788960,
     "temperature": {
       "night": -15,
       "day": -10
@@ -10,7 +10,7 @@
     "rain": false
   },
   {
-    "date": 1549875360000,
+    "date": 1549875360,
     "temperature": {
       "night": -11,
       "day": -5
@@ -20,7 +20,7 @@
     "rain": false
   },
   {
-    "date": 1549961760000,
+    "date": 1549961760,
     "temperature": {
       "night": -10,
       "day": -1
@@ -30,7 +30,7 @@
     "rain": true
   },
   {
-    "date": 1550048160000,
+    "date": 1550048160,
     "temperature": {
       "night": -12,
       "day": -8
@@ -40,7 +40,7 @@
     "rain": false
   },
   {
-    "date": 1550134560000,
+    "date": 1550134560,
     "temperature": {
       "night": -3,
       "day": 0
@@ -50,7 +50,7 @@
     "rain": false
   },
   {
-    "date": 1550220960000,
+    "date": 1550220960,
     "temperature": {
       "night": -20,
       "day": -10
@@ -60,7 +60,7 @@
     "rain": false
   },
   {
-    "date": 1550307360000,
+    "date": 1550307360,
     "temperature": {
       "night": -11,
       "day": -7
