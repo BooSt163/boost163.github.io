@@ -94,10 +94,12 @@ html {
 
 .navigation-container.disabled::before {
   background-color: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
 }
 
 .navigation-container.disabled::after {
   background-color: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
 }
 
 .weather-block {
