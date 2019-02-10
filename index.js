@@ -48,17 +48,12 @@ var weatherBlockData = {
     "Суббота"
   ],
   icons: {
-    sunny: [
-      "assets/img/sun.png",
-      "assets/img/sun.png",
-      "assets/img/sun.png",
-      "assets/img/sun.png"
-    ],
+    sunny: ["img/sun.png", "img/sun.png", "img/sun.png", "img/sun.png"],
     cloudy: [
-      "assets/img/cloud.png",
-      "assets/img/rain.png",
-      "assets/img/snow.png",
-      "assets/img/rain-and-snow.png"
+      "img/cloud.png",
+      "img/rain.png",
+      "img/snow.png",
+      "img/rain-and-snow.png"
     ]
   },
   precipitation: ["Без осадков", "Снегопад", "Дождь", "Дождь со снегом"]
