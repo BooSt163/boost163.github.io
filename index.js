@@ -97,7 +97,8 @@ function pasteData() {
         weatherBlockData.daysOfWeek[date.getDay()];
     }
     //Число и месяц
-    weatherBlocks[i].querySelector(".date").innerHTML = date.getDate();
+    weatherBlocks[i].querySelector(".date").innerHTML =
+      date.getDate() + " " + weatherBlockData.months[date.getMonth()];
     //Подстановка подходящей иконки
     let precipitation = 0;
     response[i + currentDay].rain ? precipitation++ : "";
