@@ -94,7 +94,7 @@ function pasteData() {
   //Подставляем данные в карточки с погодой
   for (let i = 0; i < weatherBlocks.length; i++) {
     //День недели
-    let date = new Day(response[i + currentDay].date);
+    let date = new Date(response[i + currentDay].date);
     if (!(i + currentDay)) {
       weatherBlocks[i].querySelector(".day-of-week").innerHTML = "Сегодня";
     } else {
