@@ -112,6 +112,11 @@ html {
   text-align: center;
   align-items: center;
   border: 1px solid #e2e2e2;
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  -webkit-user-select: none;
 }
 
 .icon {
